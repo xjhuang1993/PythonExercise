@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2d95aa0-7db2-4c26-bbde-4044a5450618" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Exercise$Vertical_scanning.coverage" NAME="Vertical scanning Coverage Results" MODIFIED="1521859598165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/014.Longest Common Prefix" />
+    <SUITE FILE_PATH="coverage/Exercise$others.coverage" NAME="others Coverage Results" MODIFIED="1523155306785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/033.Search in Rotated Sorted Array" />
+    <SUITE FILE_PATH="coverage/Exercise$common__1_.coverage" NAME="common (1) Coverage Results" MODIFIED="1523158336289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/078.Subsets" />
+    <SUITE FILE_PATH="coverage/Exercise$contextAutoTranslateGUI.coverage" NAME="contextAutoTranslateGUI Coverage Results" MODIFIED="1527683078868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$Add_Two_Numbers.coverage" NAME="Add Two Numbers Coverage Results" MODIFIED="1520149234174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$draft.coverage" NAME="draft Coverage Results" MODIFIED="1527683270470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$contextGUI.coverage" NAME="contextGUI Coverage Results" MODIFIED="1527648299058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$Brute_Force.coverage" NAME="Brute Force Coverage Results" MODIFIED="1522117567029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/023.Merge k Sorted Lists" />
+    <SUITE FILE_PATH="coverage/Exercise$otherss.coverage" NAME="otherss Coverage Results" MODIFIED="1522827753612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/075.Sort Colors" />
+    <SUITE FILE_PATH="coverage/Exercise$twoSum.coverage" NAME="twoSum Coverage Results" MODIFIED="1519980607202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$Compare_one_by_one.coverage" NAME="Compare one by one Coverage Results" MODIFIED="1522119047936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/023.Merge k Sorted Lists" />
+    <SUITE FILE_PATH="coverage/Exercise$common__3_.coverage" NAME="common (3) Coverage Results" MODIFIED="1523154733335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/080.Remove Duplicates from Sorted Array II" />
+    <SUITE FILE_PATH="coverage/Exercise$Horizontal_scanning.coverage" NAME="Horizontal scanning Coverage Results" MODIFIED="1521859931549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/014.Longest Common Prefix" />
+    <SUITE FILE_PATH="coverage/Exercise$constant.coverage" NAME="constant Coverage Results" MODIFIED="1527062050918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$Recursive_Approach.coverage" NAME="Recursive Approach Coverage Results" MODIFIED="1520234985774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/004.Median of Two Sorted Arrays" />
+    <SUITE FILE_PATH="coverage/Exercise$sort.coverage" NAME="sort Coverage Results" MODIFIED="1525865479967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/Exercise$others__1_.coverage" NAME="others (1) Coverage Results" MODIFIED="1523156292607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/081.Search in Rotated Sorted Array II" />
+    <SUITE FILE_PATH="coverage/Exercise$contextAutoTransGUI.coverage" NAME="contextAutoTransGUI Coverage Results" MODIFIED="1527649595522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$common.coverage" NAME="common Coverage Results" MODIFIED="1523156461925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/082.Remove Duplicates from Sorted List II" />
+    <SUITE FILE_PATH="coverage/Exercise$common__5_.coverage" NAME="common (5) Coverage Results" MODIFIED="1522741842359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/066.Plus One" />
+    <SUITE FILE_PATH="coverage/Exercise$Sliding_Window.coverage" NAME="Sliding Window Coverage Results" MODIFIED="1520166796163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/003.Longest Substring Without Repeating Characters" />
+    <SUITE FILE_PATH="coverage/Exercise$Longest_Substring_Without_Repeating_Characters.coverage" NAME="Longest Substring Without Repeating Characters Coverage Results" MODIFIED="1520152319924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$Recursion.coverage" NAME="Recursion Coverage Results" MODIFIED="1521625727892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/010.Regular Expression Matching" />
+    <SUITE FILE_PATH="coverage/Exercise$getSysInfo.coverage" NAME="getSysInfo Coverage Results" MODIFIED="1527153987548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$Brute_Force__1_.coverage" NAME="Brute Force (1) Coverage Results" MODIFIED="1520164166454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Longest Substring Without Repeating Characters" />
+    <SUITE FILE_PATH="coverage/Exercise$Two_Pointer_Approach.coverage" NAME="Two Pointer Approach Coverage Results" MODIFIED="1521770618599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/011.Container With Most Water" />
+    <SUITE FILE_PATH="coverage/Exercise$common__2_.coverage" NAME="common (2) Coverage Results" MODIFIED="1523158064853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/088.Merge Sorted Array" />
+    <SUITE FILE_PATH="coverage/Exercise$Sliding_Window_Optimized.coverage" NAME="Sliding Window Optimized Coverage Results" MODIFIED="1520167832653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/003.Longest Substring Without Repeating Characters" />
+    <SUITE FILE_PATH="coverage/Exercise$Two_pass_Hash_Table.coverage" NAME="Two-pass Hash Table Coverage Results" MODIFIED="1520162993737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Two Sum" />
+    <SUITE FILE_PATH="coverage/Exercise$common__4_.coverage" NAME="common (4) Coverage Results" MODIFIED="1523155598301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/081.Search in Rotated Sorted Array II" />
+    <SUITE FILE_PATH="coverage/Exercise$One_pass_Hash_Table.coverage" NAME="One-pass Hash Table Coverage Results" MODIFIED="1520162990271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Two Sum" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Exercise" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="draft.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/draft.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="contextGUI.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contextGUI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fun</find>
+      <find>two_sum2</find>
+      <find>two_sum3</find>
+      <find>two_sum1</find>
+      <find>set</find>
+      <find>B</find>
+      <find>nrows</find>
+      <find>candidates</find>
+      <find>items</find>
+      <find>update</find>
+      <find>onkey</find>
+      <find>hidetu</find>
+      <find>get_installed_distributions</find>
+      <find>class distribution</find>
+      <find>Distribution</find>
+      <find>_opener</find>
+      <find>axes</find>
+      <find>compute_initial_figure</find>
+      <find>clear</find>
+      <find>nosu</find>
+      <find>sleep</find>
+      <find>line_num</find>
+      <find>memory_state</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>two_sum</replace>
+      <replace>func</replace>
+      <replace>list</replace>
+      <replace>row</replace>
+      <replace>nums</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\projects\Python\Exercise\venv\Lib\site-packages\pip</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/069.Sqrt(x)/others.py" />
+        <option value="$PROJECT_DIR$/069.Sqrt(x)/otherss.py" />
+        <option value="$PROJECT_DIR$/069.Sqrt(x)/othersss.py" />
+        <option value="$PROJECT_DIR$/070.Climbing Stairs/description.md" />
+        <option value="$PROJECT_DIR$/070.Climbing Stairs/Recursion with memorization.py" />
+        <option value="$PROJECT_DIR$/070.Climbing Stairs/common.py" />
+        <option value="$PROJECT_DIR$/070.Climbing Stairs/others.py" />
+        <option value="$PROJECT_DIR$/071.Simplify Path/description.md" />
+        <option value="$PROJECT_DIR$/071.Simplify Path/common.py" />
+        <option value="$PROJECT_DIR$/073.Set Matrix Zeroes/description.md" />
+        <option value="$PROJECT_DIR$/073.Set Matrix Zeroes/common.py" />
+        <option value="$PROJECT_DIR$/074.Search a 2D Matrix/description.md" />
+        <option value="$PROJECT_DIR$/074.Search a 2D Matrix/common.py" />
+        <option value="$PROJECT_DIR$/074.Search a 2D Matrix/others.py" />
+        <option value="$PROJECT_DIR$/075.Sort Colors/description.md" />
+        <option value="$PROJECT_DIR$/075.Sort Colors/common.py" />
+        <option value="$PROJECT_DIR$/075.Sort Colors/others.py" />
+        <option value="$PROJECT_DIR$/075.Sort Colors/otherss.py" />
+        <option value="$PROJECT_DIR$/077.Combinations/description.md" />
+        <option value="$PROJECT_DIR$/077.Combinations/common.py" />
+        <option value="$PROJECT_DIR$/078.Subsets/description.md" />
+        <option value="$PROJECT_DIR$/079.Word Search/description.md" />
+        <option value="$PROJECT_DIR$/079.Word Search/common.py" />
+        <option value="$PROJECT_DIR$/026.Remove Duplicates from Sorted Array/others.py" />
+        <option value="$PROJECT_DIR$/080.Remove Duplicates from Sorted Array II/description.md" />
+        <option value="$PROJECT_DIR$/080.Remove Duplicates from Sorted Array II/common.py" />
+        <option value="$PROJECT_DIR$/081.Search in Rotated Sorted Array II/description.md" />
+        <option value="$PROJECT_DIR$/033.Search in Rotated Sorted Array/others.py" />
+        <option value="$PROJECT_DIR$/081.Search in Rotated Sorted Array II/common.py" />
+        <option value="$PROJECT_DIR$/081.Search in Rotated Sorted Array II/others.py" />
+        <option value="$PROJECT_DIR$/082.Remove Duplicates from Sorted List II/description.md" />
+        <option value="$PROJECT_DIR$/083.Remove Duplicates from Sorted List/description.md" />
+        <option value="$PROJECT_DIR$/082.Remove Duplicates from Sorted List II/common.py" />
+        <option value="$PROJECT_DIR$/083.Remove Duplicates from Sorted List/common.py" />
+        <option value="$PROJECT_DIR$/088.Merge Sorted Array/description.md" />
+        <option value="$PROJECT_DIR$/088.Merge Sorted Array/common.py" />
+        <option value="$PROJECT_DIR$/078.Subsets/common.py" />
+        <option value="$PROJECT_DIR$/100.Same Tree/description.md" />
+        <option value="$PROJECT_DIR$/100.Same Tree/common.py" />
+        <option value="$PROJECT_DIR$/consist.py" />
+        <option value="$PROJECT_DIR$/algorithm/sort.py" />
+        <option value="$PROJECT_DIR$/snake.py" />
+        <option value="$PROJECT_DIR$/constant.py" />
+        <option value="$PROJECT_DIR$/getSysInfo.py" />
+        <option value="$PROJECT_DIR$/context.py" />
+        <option value="$PROJECT_DIR$/contextGUI.py" />
+        <option value="$PROJECT_DIR$/contextAutoTransGUI.py" />
+        <option value="$PROJECT_DIR$/contextAutoTranslateGUI.py" />
+        <option value="$PROJECT_DIR$/getSysInfoGUI.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/pymouse/__init__.py" />
+        <option value="$PROJECT_DIR$/draft.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1048" />
+    <option name="y" value="133" />
+    <option name="width" value="1296" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonExercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonExercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects\Python\Exercise\leetcode" />
+      <recent name="D:\xjhuang\projects\Exercise\Longest Substring Without Repeating Characters" />
+      <recent name="D:\xjhuang\projects\Exercise\Add Two Numbers" />
+      <recent name="D:\xjhuang\projects\Exercise\Two Sum" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.draft">
+    <configuration name="contextAutoTransGUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\projects\Python\Exercise\contextAutoTranslateGUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="contextAutoTranslateGUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contextAutoTranslateGUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="contextGUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contextGUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="draft" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draft.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="getSysInfo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getSysInfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.draft" />
+      <item itemvalue="Python.getSysInfo" />
+      <item itemvalue="Python.contextGUI" />
+      <item itemvalue="Python.contextAutoTransGUI" />
+      <item itemvalue="Python.contextAutoTranslateGUI" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.draft" />
+        <item itemvalue="Python.contextAutoTranslateGUI" />
+        <item itemvalue="Python.contextAutoTransGUI" />
+        <item itemvalue="Python.contextGUI" />
+        <item itemvalue="Python.getSysInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2d95aa0-7db2-4c26-bbde-4044a5450618" name="Default" comment="" />
+      <created>1519979054023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519979054023</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936978" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50647247" side_tool="true" weight="0.52901024" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32936978" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49676377" weight="0.26490065" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.49271524" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4974271" visible="true" weight="0.24068768" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3295129" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.3290469" />
+      <window_info id="Structure" order="2" sideWeight="0.5025729" side_tool="true" weight="0.22919819" />
+      <window_info id="Favorites" order="0" sideWeight="0.50085765" side_tool="true" weight="0.20045386" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4935275" weight="0.5271523" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32933104" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.32936978" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.32928804" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="0" sideWeight="0.50085765" side_tool="true" weight="0.20045386" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4974271" visible="true" weight="0.22707736" />
+      <window_info id="Structure" order="2" sideWeight="0.5025729" side_tool="true" weight="0.22919819" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936978" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49676377" visible="true" weight="0.26490065" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4935275" weight="0.5271523" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3295129" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.32928804" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50647247" side_tool="true" weight="0.52901024" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.3290469" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32933104" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.49399656" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32936978" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32936978" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/011.Container With Most Water/Two Pointer Approach.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/013.Roman to Integer/others.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/014.Longest Common Prefix/Vertical scanning.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/015.3Sum/common.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/015.3Sum/others.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/018.4Sum/common.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/019.Remove Nth Node From End of List/others.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/020.Valid Parentheses/common.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/021.Merge Two Sorted Lists/common.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/022.Generate Parentheses/common.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/025.Reverse Nodes in k-Group/common.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/029.Divide Two Integers/common.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/029.Divide Two Integers/others.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/030.Substring with Concatenation of All Words/common.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/031.Next Permutation/common.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/032.Longest Valid Parentheses/common.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/034.Search for a Range/others.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/035.Search Insert Position/common.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/036.Valid Sudoku/common.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/039.Combination Sum/common.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/043.Multiply Strings/common.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/053.Maximum Subarray/common.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/053.Maximum Subarray/others.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/054.Spiral Matrix/common.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/059.Spiral Matrix II/common.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/060.Permutation Sequence/others.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/062.Unique Paths/common.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/070.Climbing Stairs/common.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/080.Remove Duplicates from Sorted Array II/common.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="98" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/algorithm/sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip/__main__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="2408" column="13" selection-start-line="2408" selection-start-column="13" selection-end-line="2408" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/misc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="829" column="9" lean-forward="true" selection-start-line="829" selection-start-column="9" selection-end-line="829" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtCore/QCoreApplication.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_qt5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="546" column="30" selection-start-line="546" selection-start-column="30" selection-end-line="546" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtWidgets/QBoxLayout.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtWidgets/QSlider.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtWidgets/QFileDialog.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtWidgets/QAbstractButton.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtCore/Qt.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtWidgets/QMainWindow.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtCore/QBasicTimer.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtWidgets/QAction.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtCore/QTime.py" />
+    <entry file="file://D:/Python/Python36/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="575" column="22" selection-start-line="575" selection-start-column="22" selection-end-line="575" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_agg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="420" column="8" selection-start-line="420" selection-start-column="8" selection-end-line="420" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="746" selection-start-line="746" selection-end-line="746" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtCore/QTimer.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/backends/backend_qt5agg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1290" column="8" selection-start-line="1290" selection-start-column="8" selection-end-line="1290" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/psutil/_exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1242">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="3197" lean-forward="true" selection-start-line="3197" selection-end-line="3197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/psutil/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="2040" column="4" selection-start-line="2040" selection-start-column="4" selection-end-line="2040" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/time.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/progress/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="97" column="8" selection-start-line="97" selection-start-column="8" selection-end-line="97" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtWidgets/QLayout.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtWidgets/__init__.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtWidgets/QLabel.py" />
+    <entry file="file://$PROJECT_DIR$/constant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getSysInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtWidgets/QTextEdit.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/builtins.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtWidgets/QCommandLinkButton.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtWidgets/QPushButton.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtGui/QGuiApplication.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtWidgets/QWidget.py" />
+    <entry file="file://D:/Python/Python36/Lib/http/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="437" column="8" selection-start-line="437" selection-start-column="8" selection-end-line="437" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/urllib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtCore/pyqtSignal.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1554781984/PyQt5/QtCore/QThread.py" />
+    <entry file="file://$PROJECT_DIR$/contextAutoTranslateGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getSysInfoGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3159">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymouse/java_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pythoncom.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymouse/windows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymouse/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2275">
+          <caret line="91" column="10" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/draft.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contextGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
