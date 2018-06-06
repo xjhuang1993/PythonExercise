@@ -29,14 +29,16 @@ class Window(QMainWindow):
 
         # 在窗口中创建按钮
         bt_clear = QPushButton("clear", self)
-        bt_paste = QPushButton("clear&&paste", self)
+        bt_clear_paste = QPushButton("clear&&paste", self)
+        bt_paste = QPushButton("paste", self)
         bt_copy = QPushButton("copy", self)
 
         # 创建网格分布布局，并将文本框和按钮添加入其中
         grid = QGridLayout()
         grid.setSpacing(10)
         grid.addWidget(bt_clear, 0, 0)
-        grid.addWidget(bt_paste, 0, 1)
+        grid.addWidget(bt_clear_paste, 0, 1)
+        grid.addWidget(bt_paste, 0, 2)
         grid.addWidget(bt_copy, 0, 7)
         grid.addWidget(self.txt_in, 1, 0, 5, 3)
         grid.addWidget(self.txt_out, 1, 6, 5, 3)
@@ -51,6 +53,7 @@ class Window(QMainWindow):
 
         # 按钮与事件相关联
         bt_clear.clicked.connect(self.bt_clear_on_clicked)
+        bt_clear_paste.clicked.connect(self.bt_clear_paste_on_clicked)
         bt_paste.clicked.connect(self.bt_paste_on_clicked)
         bt_copy.clicked.connect(self.bt_copy_on_clicked)
 
@@ -71,14 +74,27 @@ class Window(QMainWindow):
         self.txt_in.clear()
         self.statusBar().showMessage("Cleared the input")
 
-    def bt_paste_on_clicked(self):
+    def bt_clear_paste_on_clicked(self):
         """
-        按下paste按钮，将剪贴板中的文本粘贴到input框中
+        按下clear&paste按钮，将清空input框并将剪贴板中的文本粘贴到input框中
         :return:
         """
         clipboard = QApplication.clipboard()
         self.txt_in.setText(clipboard.text())
         self.statusBar().showMessage("Cleared and pasted the input")
+
+    def bt_paste_on_clicked(self):
+        """
+        按下paste按钮，将剪贴板中的文本粘贴到input框文本后边
+        :return:
+        """
+        clipboard = QApplication.clipboard()
+        original = self.txt_in.toPlainText()
+        if original:
+            later = original + "\n" + clipboard.text()
+        else:
+            later = clipboard.text()
+        self.txt_in.setText(later)
 
     def bt_copy_on_clicked(self):
         """
